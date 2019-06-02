@@ -2,7 +2,7 @@
 
 ## What is Correlation?
 
-Correlation is the relationship between 2 or more things and, when it comes to investing, understanding the correlation of different stocks and asset classes plays a key part in diversification. 
+Correlation is the relationship between 2 or more things and, when it comes to investing, understanding the correlation of different stocks and asset classes plays a key role in diversification. 
 
 
 ## Objective:
